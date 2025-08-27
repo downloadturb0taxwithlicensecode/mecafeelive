@@ -27,7 +27,7 @@ Visit the McAfee Activation Website
 
 To begin activation:
 
-1. Open your browser and go to **[mcafee.com/activate](https://www.mcafee.com/activate)**.
+1. Open your browser and go to **[mcafee.com/activate]**.
 2. Select your **country** and **language** for the best experience.
 3. Ensure you are on the **official McAfee site** to avoid phishing scams.
 
@@ -76,6 +76,7 @@ Conclusion
 -----------------------------------------------
 
 Activating your McAfee subscription is quick and essential to keep your device secure. By entering your **product key** or **activation code** at the official website, downloading the software, and confirming subscription status, you ensure real-time protection against evolving cyber threats. With McAfee activated, you can browse, shop, and work online with confidence.
+
 
 
 
