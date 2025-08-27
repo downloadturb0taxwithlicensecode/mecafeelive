@@ -3,6 +3,12 @@ Step-by-Step Guide to Activate McAfee Product Subscription
 
 McAfee is a trusted cybersecurity provider that safeguards your devices from viruses, malware, ransomware, phishing, and other online threats. To unlock full protection and premium features, activating your McAfee subscription is essential. Whether purchased online, through a retailer, or pre-installed on your device, the activation process ensures continuous security. Though it may seem confusing, it’s actually simple if you follow the correct steps. This guide explains how to activate McAfee easily and keep your digital world safe.
 
+.. raw:: html
+ 
+   <div style="text-align:center;">
+       <a href="https://mcafeedesk.securebase.click/helpline/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with McAfee Page</a>
+   </div>
+
 
 Locate Your McAfee Product Key
 -----------------------------------------------
@@ -70,4 +76,5 @@ Conclusion
 -----------------------------------------------
 
 Activating your McAfee subscription is quick and essential to keep your device secure. By entering your **product key** or **activation code** at the official website, downloading the software, and confirming subscription status, you ensure real-time protection against evolving cyber threats. With McAfee activated, you can browse, shop, and work online with confidence.
+
 
